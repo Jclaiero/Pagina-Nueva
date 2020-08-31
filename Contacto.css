@@ -1,0 +1,98 @@
+body header {
+  color: #49413e;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 100;
+  background-color: #6f645f;
+  padding: 16px 0;
+}
+header h1 {
+  text-align: center;
+  background-color: #D1B2A3;
+}
+nav {
+  background-color: #969391;
+  margin-bottom: 2em;
+}
+nav ul {
+  color: whitesmoke;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav ul li {
+  display: inline-block;
+  width: 16.3%;
+  padding: 5px 0;
+}
+nav ul li a {
+  color: white;
+  text-decoration: honeydew;
+  text-align: center;
+  display: block;
+}
+
+.columna{ width: 50%;
+  box-sizing: border-box;
+  background-color: #C3ADA0;
+  border-radius: 10px;
+  box-shadow: #6f645f 5px 5px 5px;
+}
+.columna2{ width: 50%;
+  box-sizing: border-box;
+  background-color: #C3ADA0;
+  border-radius: 10px;
+  box-shadow: #6f645f 5px 5px 5px;
+  margin-bottom: 20px;
+}
+.holder .columna h2{
+  padding-left: 7px;
+  background-color: #CABFBA;
+  border-radius: 5px;
+}
+
+.columna ul{
+  padding-bottom: 15px;
+}
+
+.columna2 ul{
+  padding-bottom: 15px;
+}
+
+.columna p{
+  padding-bottom: 5px;
+  padding-left: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.columna input{
+  border-radius: 5px;
+  
+}
+
+.columna h2{
+  padding-left: 5px;
+}
+.columna2 h3{ padding-left: 10px;
+             background-color: #CABFBA;
+             border-radius: 5px;
+             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.columna2 h4{ padding-left: 10px;
+  background-color: #CABFBA;
+  border-radius: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.columna2 ul li{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+footer{
+  background-color: #49413E;
+  text-align: center;
+  
+}
